@@ -18,10 +18,10 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 
 ## 🚀 Resultados -
 
-- Ebook - O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem impactar na vida das pessoas, principalmente na vida dos profissionais de TI, o tema aborda também a questão da insegurança em relação ao futuro da profissão. 
-- Podcast - [LINK PARA O PODCAST AQUI]() - O episódio é uma introdução rapida e simplista sobre os impactos positivos e negativos na vida do profissionail de TI. 
-- Vídeo - O vídeo é uma explanação rapida que nos leva a repletir sobre o tema: "Mentes e Máquinas: Como as IAs Generativas Estão Redefinindo o Futuro da TI"
-
+- Ebook -[📓](https://github.com/Elly-zps/Lab-Latty-Or-Not-MaquinaseMentes/blob/main/output/Maquinas%20e%20Mentes.pdf) O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem impactar na vida das pessoas, principalmente na vida dos profissionais de TI, o tema aborda também a questão da insegurança em relação ao futuro da profissão. 
+- Podcast -[🗣️](https://github.com/Elly-zps/Lab-Latty-Or-Not-MaquinaseMentes/blob/main/output/ElevenLabs_2025-01-13T18_30_03_Carla%20-%20Children's%20story%20narrator_pvc_s45_sb75.mp3) - O episódio é uma introdução rapida e simplista sobre os impactos positivos e negativos na vida do profissionail de TI. 
+- Vídeo -  [📹](https://github.com/Elly-zps/Lab-Latty-Or-Not-MaquinaseMentes/blob/main/output/Untitled%20video.mp4) -  O vídeo é uma explanação rapida que nos leva a repletir sobre o tema: "Mentes e Máquinas: Como as IAs Generativas Estão Redefinindo o Futuro da TI"
+- Portifólio - [👩‍💻](https://www.notion.so/Mentes-e-M-quinas-Como-as-IAs-Generativas-Est-o-Redefinindo-o-Futuro-da-TI-17a11148408d808997d7c81afca32b5f) Trabalho completo disponível na plataforma https://www.notion.so/
 
 
 
